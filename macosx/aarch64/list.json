@@ -27,6 +27,10 @@
     {
       "version": "0.8.6",
       "sha256": "500d4ac7efef80477ec72f3bd8fd35a6ca4eea1cbd9e4959d270c60f4889a25a"
+    },
+    {
+      "version": "0.8.5",
+      "sha256": "faacd19bc9c40b57db2df007fba207b447441f32b3d15f07892d47e0b989adb1"
     }
   ],
   "releases": {
@@ -36,6 +40,7 @@
     "0.8.9": "solc-v0.8.9",
     "0.8.8": "solc-v0.8.8",
     "0.8.7": "solc-v0.8.7",
-    "0.8.6": "solc-v0.8.6"
+    "0.8.6": "solc-v0.8.6",
+    "0.8.5": "solc-v0.8.5"
   }
 }
