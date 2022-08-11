@@ -2,11 +2,11 @@
     "builds": [
 	{
             "version": "0.8.16",
-            "sha256": "37ee4ae8469e0c6c9411652fa779f54510533edae91194d306683a083caf831f"
+	    "sha256": "b1be60d65046f9f8bc58b92cfd1f440a54167e9fee340b568c6160ea8554d111"
     	},
 	{
             "version": "0.8.15",
-	    "sha256": "672c68ebcf08671a27b4a9660ab0b97ad2a7ffc1b158db396538eb4618806e13"
+	    "sha256": "0b6619ee14af56ab7a6f5993f42d2d700aa1dda6f9fb2c74f5df52eeb6369307"
         },
         {
             "version": "0.8.14",

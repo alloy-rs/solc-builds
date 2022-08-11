@@ -6,18 +6,16 @@ The main purpose of the repo is to provide MacOS aarch64 binaries for [roynalnar
 
 [`Z3`](https://github.com/Z3Prover/z3) is required to build `solc` with SMT solver support.
 
-Different `solc` versions depend on different versions of `Z3`.
-
-* Get the commit for the appropriate `Z3` version from [here](https://github.com/Homebrew/homebrew-core/commits/5d6ac395090c6635b634feb6e7fa92a5fd4a1886/Formula/z3.rb).
-* Get the corresponding formula code (`z3.rb` file). For instance, for `z3 v4.8.17` [here](https://github.com/Homebrew/homebrew-core/blob/841cde393531a6239af9ce4771e2c8027dda0664/Formula/z3.rb) is the formula.
-* Download the formula
+* Download `Z3` (version `4.8.17` should be compatible with `solidity >= 0.8.15`) and unzip
 ```
-$ wget https://raw.githubusercontent.com/Homebrew/homebrew-core/841cde393531a6239af9ce4771e2c8027dda0664/Formula/z3.rb
+$ wget https://github.com/Z3Prover/z3/releases/download/z3-4.8.17/z3-4.8.17-arm64-osx-10.16.zip
+$ unzip z3-4.8.17-arm64-osx-10.16.zip && cd z3-4.8.17-arm64-osx-10.16
 ```
-* Install `Z3`
+* Copy to `/usr/local`
 ```
-$ brew unlink z3
-$ brew install z3.rb
+$ cp bin/libz3.a /usr/local/lib
+$ cp bin/z3 /usr/local/bin
+$ cp include/* /usr/local/include
 ```
 
 ### Build Instructions
