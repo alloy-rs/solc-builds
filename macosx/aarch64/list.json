@@ -1,6 +1,10 @@
 {
     "builds": [
 	{
+	    "version": "0.8.19",
+	    "sha256": "49e1ae5534cd0e5d47a7c0fb8febe645bb02c1c2d509263342afbb042a0df7ae"
+	},
+	{
 	    "version": "0.8.18",
 	    "sha256": "5784b17fba8ce4030f2c89a130b308b6cb5d243696ab48db2dd60f49b0005698"
 	},
@@ -58,6 +62,7 @@
         }
     ],
     "releases": {
+	"0.8.19": "solc-v0.8.19",
 	"0.8.18": "solc-v0.8.18",
 	"0.8.17": "solc-v0.8.17",
         "0.8.16": "solc-v0.8.16",
