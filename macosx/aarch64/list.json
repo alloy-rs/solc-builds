@@ -1,6 +1,10 @@
 {
     "builds": [
     {
+        "version": "0.8.21",
+        "sha256": "53a0c7d95d12f05be42a2e5f6fce9509d6231464bd0120518a4bb4ae332d7912"
+    },
+    {
         "version": "0.8.20",
         "sha256": "5d98c9ed892b74ecadc4ab7f93de6211fdde0351ef66f2cb90eb11630e30e2ab"
     },
