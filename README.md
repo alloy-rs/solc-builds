@@ -6,10 +6,10 @@ The main purpose of the repo is to provide MacOS aarch64 binaries for [roynalnar
 
 [`Z3`](https://github.com/Z3Prover/z3) is required to build `solc` with SMT solver support.
 
-* Download `Z3` (version `4.8.17` should be compatible with `solidity >= 0.8.15`) and unzip
+* Download `Z3` (version `4.8.17` should be compatible with `solidity >= 0.8.21`, while `4.12.1` is required for `solidity >= 0.8.22`) and unzip
 ```
-$ wget https://github.com/Z3Prover/z3/releases/download/z3-4.8.17/z3-4.8.17-arm64-osx-10.16.zip
-$ unzip z3-4.8.17-arm64-osx-10.16.zip && cd z3-4.8.17-arm64-osx-10.16
+$ wget https://github.com/Z3Prover/z3/releases/download/z3-4.12.1/z3-4.12.1-arm64-osx-11.0.zip
+$ unzip z3-4.12.1-arm64-osx-11.0.zip && cd z3-4.12.1-arm64-osx-11.0
 ```
 * Copy to `/usr/local`
 ```
