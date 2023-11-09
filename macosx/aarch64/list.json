@@ -1,100 +1,101 @@
 {
-    "builds": [
+  "builds": [
     {
-        "version": "0.8.23",
-        "sha256": "df90fd580c92970e6441fa4b69b58e364e33f1ef0da6b8dae49af289e972a075"
+      "version": "0.8.23",
+      "sha256": "df90fd580c92970e6441fa4b69b58e364e33f1ef0da6b8dae49af289e972a075"
     },
     {
-        "version": "0.8.22",
-        "sha256": "2a190970f93f3f8f3631df6eabd245994ffc5558e8efbd94d597a6f447f59b33"
+      "version": "0.8.22",
+      "sha256": "2a190970f93f3f8f3631df6eabd245994ffc5558e8efbd94d597a6f447f59b33"
     },
     {
-        "version": "0.8.21",
-        "sha256": "53a0c7d95d12f05be42a2e5f6fce9509d6231464bd0120518a4bb4ae332d7912"
+      "version": "0.8.21",
+      "sha256": "53a0c7d95d12f05be42a2e5f6fce9509d6231464bd0120518a4bb4ae332d7912"
     },
     {
-        "version": "0.8.20",
-        "sha256": "5d98c9ed892b74ecadc4ab7f93de6211fdde0351ef66f2cb90eb11630e30e2ab"
+      "version": "0.8.20",
+      "sha256": "5d98c9ed892b74ecadc4ab7f93de6211fdde0351ef66f2cb90eb11630e30e2ab"
     },
-	{
-	    "version": "0.8.19",
-	    "sha256": "49e1ae5534cd0e5d47a7c0fb8febe645bb02c1c2d509263342afbb042a0df7ae"
-	},
-	{
-	    "version": "0.8.18",
-	    "sha256": "5784b17fba8ce4030f2c89a130b308b6cb5d243696ab48db2dd60f49b0005698"
-	},
-	{
-	    "version": "0.8.17",
-	    "sha256": "f5a38e9f870ef2e00e714630213bb25e50e080f6b772a7253738e647621ba4e6"
-	},
-	{
-            "version": "0.8.16",
-	    "sha256": "b1be60d65046f9f8bc58b92cfd1f440a54167e9fee340b568c6160ea8554d111"
-    	},
-	{
-            "version": "0.8.15",
-	    "sha256": "0b6619ee14af56ab7a6f5993f42d2d700aa1dda6f9fb2c74f5df52eeb6369307"
-        },
-        {
-            "version": "0.8.14",
-            "sha256": "b76fa10fad045d1373dd57c519a4727192dc04bceffe863fbdb015638fe467be"
-        },
-        {
-            "version": "0.8.13",
-            "sha256": "42837bf568e8eb777c6b376c4ee525293f7405f82b9c656a1093d42b3ac2a5a6"
-        },
-        {
-            "version": "0.8.12",
-            "sha256": "7b3faedb17c1709641877d1a7e7d54eaf713929fadbc8be5cc9d9e24ab8b9cc7"
-        },
-        {
-            "version": "0.8.11",
-            "sha256": "5fd03cb7a9d3959ea338b8c44f14ee81151fb30b2a763b7afc30c55ad07f4fe5"
-        },
-        {
-            "version": "0.8.10",
-            "sha256": "93ea87034fe0af3b2a84ccb9f2c075e21a05bb45d70ca8c72d21aabedae65d0e"
-        },
-        {
-            "version": "0.8.9",
-            "sha256": "5996fe80c8a1ac28f6010cea3ccbb1c2bbd0e25391e52c62839b6fa05d1e7eac"
-        },
-        {
-            "version": "0.8.8",
-            "sha256": "5770c0f421646fae964c55823df13b42655001001916591cad4720750254b657"
-        },
-        {
-            "version": "0.8.7",
-            "sha256": "0ca1e24c34756da3defc929ec906db3e50d6f51e82cc3c6078c8dd00ad2eca3a"
-        },
-        {
-            "version": "0.8.6",
-            "sha256": "500d4ac7efef80477ec72f3bd8fd35a6ca4eea1cbd9e4959d270c60f4889a25a"
-        },
-        {
-            "version": "0.8.5",
-            "sha256": "faacd19bc9c40b57db2df007fba207b447441f32b3d15f07892d47e0b989adb1"
-        }
-    ],
-    "releases": {
-        "0.8.22": "solc-v0.8.22",
-        "0.8.21": "solc-v0.8.21",
-        "0.8.20": "solc-v0.8.20",
-        "0.8.19": "solc-v0.8.19",
-        "0.8.18": "solc-v0.8.18",
-        "0.8.17": "solc-v0.8.17",
-        "0.8.16": "solc-v0.8.16",
-        "0.8.15": "solc-v0.8.15",
-        "0.8.14": "solc-v0.8.14",
-        "0.8.13": "solc-v0.8.13",
-        "0.8.12": "solc-v0.8.12",
-        "0.8.11": "solc-v0.8.11",
-        "0.8.10": "solc-v0.8.10",
-        "0.8.9": "solc-v0.8.9",
-        "0.8.8": "solc-v0.8.8",
-        "0.8.7": "solc-v0.8.7",
-        "0.8.6": "solc-v0.8.6",
-        "0.8.5": "solc-v0.8.5"
+    {
+      "version": "0.8.19",
+      "sha256": "49e1ae5534cd0e5d47a7c0fb8febe645bb02c1c2d509263342afbb042a0df7ae"
+    },
+    {
+      "version": "0.8.18",
+      "sha256": "5784b17fba8ce4030f2c89a130b308b6cb5d243696ab48db2dd60f49b0005698"
+    },
+    {
+      "version": "0.8.17",
+      "sha256": "f5a38e9f870ef2e00e714630213bb25e50e080f6b772a7253738e647621ba4e6"
+    },
+    {
+      "version": "0.8.16",
+      "sha256": "b1be60d65046f9f8bc58b92cfd1f440a54167e9fee340b568c6160ea8554d111"
+    },
+    {
+      "version": "0.8.15",
+      "sha256": "0b6619ee14af56ab7a6f5993f42d2d700aa1dda6f9fb2c74f5df52eeb6369307"
+    },
+    {
+      "version": "0.8.14",
+      "sha256": "b76fa10fad045d1373dd57c519a4727192dc04bceffe863fbdb015638fe467be"
+    },
+    {
+      "version": "0.8.13",
+      "sha256": "42837bf568e8eb777c6b376c4ee525293f7405f82b9c656a1093d42b3ac2a5a6"
+    },
+    {
+      "version": "0.8.12",
+      "sha256": "7b3faedb17c1709641877d1a7e7d54eaf713929fadbc8be5cc9d9e24ab8b9cc7"
+    },
+    {
+      "version": "0.8.11",
+      "sha256": "5fd03cb7a9d3959ea338b8c44f14ee81151fb30b2a763b7afc30c55ad07f4fe5"
+    },
+    {
+      "version": "0.8.10",
+      "sha256": "93ea87034fe0af3b2a84ccb9f2c075e21a05bb45d70ca8c72d21aabedae65d0e"
+    },
+    {
+      "version": "0.8.9",
+      "sha256": "5996fe80c8a1ac28f6010cea3ccbb1c2bbd0e25391e52c62839b6fa05d1e7eac"
+    },
+    {
+      "version": "0.8.8",
+      "sha256": "5770c0f421646fae964c55823df13b42655001001916591cad4720750254b657"
+    },
+    {
+      "version": "0.8.7",
+      "sha256": "0ca1e24c34756da3defc929ec906db3e50d6f51e82cc3c6078c8dd00ad2eca3a"
+    },
+    {
+      "version": "0.8.6",
+      "sha256": "500d4ac7efef80477ec72f3bd8fd35a6ca4eea1cbd9e4959d270c60f4889a25a"
+    },
+    {
+      "version": "0.8.5",
+      "sha256": "faacd19bc9c40b57db2df007fba207b447441f32b3d15f07892d47e0b989adb1"
     }
+  ],
+  "releases": {
+    "0.8.23": "solc-v0.8.23",
+    "0.8.22": "solc-v0.8.22",
+    "0.8.21": "solc-v0.8.21",
+    "0.8.20": "solc-v0.8.20",
+    "0.8.19": "solc-v0.8.19",
+    "0.8.18": "solc-v0.8.18",
+    "0.8.17": "solc-v0.8.17",
+    "0.8.16": "solc-v0.8.16",
+    "0.8.15": "solc-v0.8.15",
+    "0.8.14": "solc-v0.8.14",
+    "0.8.13": "solc-v0.8.13",
+    "0.8.12": "solc-v0.8.12",
+    "0.8.11": "solc-v0.8.11",
+    "0.8.10": "solc-v0.8.10",
+    "0.8.9": "solc-v0.8.9",
+    "0.8.8": "solc-v0.8.8",
+    "0.8.7": "solc-v0.8.7",
+    "0.8.6": "solc-v0.8.6",
+    "0.8.5": "solc-v0.8.5"
+  }
 }
