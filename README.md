@@ -36,3 +36,13 @@ $ ./scripts/build.sh
 ```
 $ shasum -a 256 ./build/solc/solc
 ```
+
+### Troubleshooting
+
+#### Error running on Android: `CANNOT LINK EXECUTABLE`
+
+Install the `jsoncpp` package:
+
+```console
+pkg install jsoncpp
+```
