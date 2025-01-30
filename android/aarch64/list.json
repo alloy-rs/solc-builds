@@ -3,9 +3,29 @@
     {
       "version": "0.8.24",
       "sha256": "54c813c05e44dcaa692e301f8b0e45abbddd81dd7a8a9a87e9f52b787ef516ce"
+    },
+    {
+      "version": "0.8.25",
+      "sha256": "ec6a22c7a7c04a7185b922f8a7165888496d41355400ffe241ce8af5b7710cf2"
+    },
+    {
+      "version": "0.8.26",
+      "sha256": "52461607aa8189e0b75226c95120c526421e99aa64a488db0e67366de2f2bc1f"
+    },
+    {
+      "version": "0.8.27",
+      "sha256": "eabf499de7948d2c09ab29584fcfd025ee6cd284caac6f38013ebc9307fb4762"
+    },
+    {
+      "version": "0.8.28",
+      "sha256": "0e58eadac3e9f45417d7ec47c2a5f8a656aecf15e9545e244720803274e966d3"
     }
   ],
   "releases": {
-    "0.8.24": "solc-v0.8.24"
+    "0.8.24": "solc-v0.8.24",
+    "0.8.25": "solc-v0.8.25",
+    "0.8.26": "solc-v0.8.26",
+    "0.8.27": "solc-v0.8.27",
+    "0.8.28": "solc-v0.8.28"
   }
 }
